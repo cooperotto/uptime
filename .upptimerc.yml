@@ -2,9 +2,6 @@
 owner: cooperotto # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
-status-website:
-  baseUrl: /uptime
-
 sites:
   - name: Prod
     url: https://app.ottooptics.io/health-check/
@@ -16,6 +13,7 @@ sites:
     url: https://www.ottooptics.io/
 
 status-website:
+  baseUrl: /uptime
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: demo.upptime.js.org
