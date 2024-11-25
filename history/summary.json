@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 580,
-    "timeWeek": 580,
-    "timeMonth": 580,
-    "timeYear": 580,
+    "time": 596,
+    "timeDay": 596,
+    "timeWeek": 596,
+    "timeMonth": 596,
+    "timeYear": 596,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 428,
-    "timeDay": 428,
-    "timeWeek": 428,
-    "timeMonth": 428,
-    "timeYear": 428,
+    "time": 474,
+    "timeDay": 474,
+    "timeWeek": 474,
+    "timeMonth": 474,
+    "timeYear": 474,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 210,
-    "timeWeek": 210,
-    "timeMonth": 210,
-    "timeYear": 210,
+    "time": 217,
+    "timeDay": 217,
+    "timeWeek": 217,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 633,
-    "timeDay": 633,
-    "timeWeek": 633,
-    "timeMonth": 633,
-    "timeYear": 633,
+    "time": 582,
+    "timeDay": 582,
+    "timeWeek": 582,
+    "timeMonth": 582,
+    "timeYear": 582,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Testing",
+    "url": "fakedownsite.com",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "testing",
+    "status": "down",
+    "uptime": "1.61%",
+    "uptimeDay": "1.61%",
+    "uptimeWeek": "1.61%",
+    "uptimeMonth": "1.61%",
+    "uptimeYear": "1.61%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-11-25": 0
+    }
   }
 ]
