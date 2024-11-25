@@ -13,7 +13,7 @@ sites:
     url: https://www.ottooptics.io/
 
 status-website:
-  baseUrl: /uptime
+  cname: status.ottooptics.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Otto
   introTitle: "**Otto** Server Uptime Checks"
