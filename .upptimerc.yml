@@ -11,6 +11,8 @@ sites:
     url: https://demo.ottooptics.io/health-check/
   - name: Marketing
     url: https://www.ottooptics.io/
+  - name: Testing
+    url: fakedownsite.com
 
 status-website:
   baseUrl: /uptime
