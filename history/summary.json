@@ -22,19 +22,19 @@
     "url": "https://demo.ottooptics.io/health-check/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.ottooptics.io.ico",
     "slug": "demo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 528,
-    "timeDay": 608,
-    "timeWeek": 597,
-    "timeMonth": 553,
-    "timeYear": 528,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 526,
+    "timeDay": 511,
+    "timeWeek": 574,
+    "timeMonth": 549,
+    "timeYear": 526,
     "dailyMinutesDown": {
-      "2025-01-15": 2
+      "2025-01-15": 31
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://demo.ottooptics.io/health-check/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.ottooptics.io.ico",
     "slug": "dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 188,
-    "timeWeek": 229,
-    "timeMonth": 223,
-    "timeYear": 216,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 217,
+    "timeDay": 247,
+    "timeWeek": 239,
+    "timeMonth": 226,
+    "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-01-15": 0
+      "2025-01-15": 29
     }
   },
   {
