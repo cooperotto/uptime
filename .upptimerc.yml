@@ -8,9 +8,11 @@ sites:
   - name: Demo
     url: https://demo.ottooptics.io/health-check/
   - name: Dev
-    url: https://demo.ottooptics.io/health-check/
-  - name: Marketing
+    url: https://dev.ottooptics.io/health-check/
+  - name: Front Page
     url: https://www.ottooptics.io/
+  - name: Otto Content
+    url: https://app.ottocontent.ai/
 
 status-website:
   cname: status.ottooptics.io
