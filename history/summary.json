@@ -22,10 +22,10 @@
     "url": "https://demo.ottooptics.io/health-check/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.ottooptics.io.ico",
     "slug": "demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 528,
@@ -33,16 +33,18 @@
     "timeWeek": 597,
     "timeMonth": 553,
     "timeYear": 528,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-15": 2
+    }
   },
   {
     "name": "Dev",
     "url": "https://demo.ottooptics.io/health-check/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.ottooptics.io.ico",
     "slug": "dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 229,
     "timeMonth": 223,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-15": 0
+    }
   },
   {
     "name": "Marketing",
