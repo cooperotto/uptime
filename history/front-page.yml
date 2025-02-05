@@ -1,7 +1,7 @@
 url: https://www.ottooptics.io/
-status: up
-code: 200
-responseTime: 366
-lastUpdated: 2025-02-04T23:11:25.610Z
+status: down
+code: 429
+responseTime: 122
+lastUpdated: 2025-02-05T16:22:34.377Z
 startTime: 2025-01-15T17:24:45.923Z
 generator: Upptime <https://github.com/upptime/upptime>
