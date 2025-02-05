@@ -62,19 +62,19 @@
     "url": "https://www.ottooptics.io/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ottooptics.io.ico",
     "slug": "front-page",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.50%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 302,
-    "timeDay": 283,
-    "timeWeek": 320,
+    "timeDay": 287,
+    "timeWeek": 318,
     "timeMonth": 302,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2025-02-05": 21
+      "2025-02-05": 44
     }
   },
   {
