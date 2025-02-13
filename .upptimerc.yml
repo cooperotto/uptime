@@ -13,6 +13,8 @@ sites:
     url: https://www.ottooptics.io/
   - name: Otto Content
     url: https://app.ottocontent.ai/
+  - name: Glitch Tip
+    url: https://glitchtip.ottooptics.io/
 
 status-website:
   cname: status.ottooptics.io
