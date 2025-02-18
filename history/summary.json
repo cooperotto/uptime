@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 534,
+    "time": 533,
     "timeDay": 517,
-    "timeWeek": 532,
-    "timeMonth": 535,
-    "timeYear": 534,
+    "timeWeek": 503,
+    "timeMonth": 537,
+    "timeYear": 533,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 531,
-    "timeDay": 479,
+    "time": 530,
+    "timeDay": 474,
     "timeWeek": 483,
     "timeMonth": 532,
-    "timeYear": 531,
+    "timeYear": 530,
     "dailyMinutesDown": {
       "2025-01-15": 31
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 322,
-    "timeDay": 516,
-    "timeWeek": 466,
+    "time": 324,
+    "timeDay": 494,
+    "timeWeek": 474,
     "timeMonth": 503,
-    "timeYear": 322,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2025-01-15": 29
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.91%",
-    "time": 320,
-    "timeDay": 393,
+    "time": 322,
+    "timeDay": 414,
     "timeWeek": 336,
-    "timeMonth": 327,
-    "timeYear": 320,
+    "timeMonth": 330,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2025-02-05": 44
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1243,
-    "timeDay": 1771,
-    "timeWeek": 1256,
-    "timeMonth": 1189,
-    "timeYear": 1243,
+    "time": 1258,
+    "timeDay": 1808,
+    "timeWeek": 1429,
+    "timeMonth": 1190,
+    "timeYear": 1258,
     "dailyMinutesDown": {}
   },
   {
@@ -101,18 +101,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/glitchtip.ottooptics.io.ico",
     "slug": "glitch-tip",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "81.19%",
+    "uptimeDay": "15.62%",
+    "uptimeWeek": "81.19%",
+    "uptimeMonth": "81.19%",
+    "uptimeYear": "81.19%",
     "time": 299,
-    "timeDay": 349,
+    "timeDay": 0,
     "timeWeek": 299,
     "timeMonth": 299,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2025-02-17": 0
+      "2025-02-18": 75,
+      "2025-02-17": 1140
     }
   }
 ]
