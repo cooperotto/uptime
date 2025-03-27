@@ -84,9 +84,9 @@
     "url": "https://app.ottocontent.ai/",
     "icon": "https://icons.duckduckgo.com/ip3/app.ottocontent.ai.ico",
     "slug": "otto-content",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,7 +95,9 @@
     "timeWeek": 1839,
     "timeMonth": 1679,
     "timeYear": 1419,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-27": 0
+    }
   },
   {
     "name": "Glitch Tip",
@@ -103,11 +105,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/glitchtip.ottooptics.io.ico",
     "slug": "glitch-tip",
     "status": "up",
-    "uptime": "96.63%",
+    "uptime": "96.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.63%",
+    "uptimeYear": "96.68%",
     "time": 267,
     "timeDay": 173,
     "timeWeek": 223,
