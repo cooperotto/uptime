@@ -11,8 +11,8 @@ sites:
     url: https://dev.ottooptics.io/health-check/
   - name: Front Page
     url: https://www.ottooptics.io/
-  - name: Otto Content
-    url: https://app.ottocontent.ai/
+  - name: Contello
+    url: https://app.contello.ai/
   - name: Glitch Tip
     url: https://glitchtip.ottooptics.io/
 
