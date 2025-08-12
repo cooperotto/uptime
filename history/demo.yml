@@ -1,7 +1,7 @@
 url: https://demo.ottooptics.io/health-check/
-status: up
-code: 200
-responseTime: 311
-lastUpdated: 2025-08-11T23:13:19.092Z
+status: down
+code: 503
+responseTime: 413
+lastUpdated: 2025-08-12T09:30:15.466Z
 startTime: 2024-11-25T15:44:08.721Z
 generator: Upptime <https://github.com/upptime/upptime>
