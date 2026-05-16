@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 467,
-    "timeDay": 411,
-    "timeWeek": 341,
-    "timeMonth": 360,
-    "timeYear": 449,
+    "timeDay": 333,
+    "timeWeek": 335,
+    "timeMonth": 358,
+    "timeYear": 448,
     "dailyMinutesDown": {
       "2026-04-13": 106
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 478,
-    "timeDay": 273,
-    "timeWeek": 360,
-    "timeMonth": 361,
-    "timeYear": 440,
+    "time": 477,
+    "timeDay": 215,
+    "timeWeek": 334,
+    "timeMonth": 358,
+    "timeYear": 439,
     "dailyMinutesDown": {
       "2025-08-12": 104
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 479,
-    "timeDay": 240,
-    "timeWeek": 345,
-    "timeMonth": 357,
+    "timeDay": 353,
+    "timeWeek": 323,
+    "timeMonth": 360,
     "timeYear": 415,
     "dailyMinutesDown": {
       "2025-08-12": 17
@@ -71,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 311,
-    "timeDay": 198,
-    "timeWeek": 221,
-    "timeMonth": 209,
-    "timeYear": 296,
+    "timeDay": 107,
+    "timeWeek": 192,
+    "timeMonth": 204,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2025-12-05": 33,
       "2025-09-04": 25,
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1895,
-    "timeDay": 2413,
-    "timeWeek": 1779,
-    "timeMonth": 2156,
-    "timeYear": 1895,
+    "time": 1897,
+    "timeDay": 2389,
+    "timeWeek": 1820,
+    "timeMonth": 2150,
+    "timeYear": 1897,
     "dailyMinutesDown": {}
   },
   {
@@ -111,10 +111,10 @@
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
-    "time": 274,
-    "timeDay": 190,
-    "timeWeek": 246,
-    "timeMonth": 268,
+    "time": 273,
+    "timeDay": 188,
+    "timeWeek": 224,
+    "timeMonth": 261,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2026-05-15": 88
