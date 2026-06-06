@@ -4,11 +4,11 @@
     "url": "https://app.ottooptics.io/health-check/",
     "icon": "https://icons.duckduckgo.com/ip3/app.ottooptics.io.ico",
     "slug": "prod",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 458,
     "timeDay": 389,
@@ -16,7 +16,8 @@
     "timeMonth": 341,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2026-04-13": 106
+      "2026-04-13": 106,
+      "2026-06-06": 24
     }
   },
   {
@@ -24,11 +25,11 @@
     "url": "https://demo.ottooptics.io/health-check/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.ottooptics.io.ico",
     "slug": "demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 468,
     "timeDay": 375,
@@ -36,7 +37,8 @@
     "timeMonth": 321,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2025-08-12": 104
+      "2025-08-12": 104,
+      "2026-06-06": 17
     }
   },
   {
@@ -44,19 +46,20 @@
     "url": "https://dev.ottooptics.io/health-check/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.ottooptics.io.ico",
     "slug": "dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 473,
     "timeDay": 357,
     "timeWeek": 313,
     "timeMonth": 335,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2025-08-12": 17
+      "2025-08-12": 17,
+      "2026-06-06": 10
     }
   },
   {
@@ -105,11 +108,11 @@
     "url": "https://glitchtip.ottooptics.io/",
     "icon": "https://icons.duckduckgo.com/ip3/glitchtip.ottooptics.io.ico",
     "slug": "glitch-tip",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
     "time": 272,
     "timeDay": 346,
@@ -117,7 +120,8 @@
     "timeMonth": 233,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2026-05-15": 88
+      "2026-05-15": 88,
+      "2026-06-06": 2
     }
   }
 ]
