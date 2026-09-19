@@ -11,8 +11,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 437,
-    "timeDay": 434,
-    "timeWeek": 395,
+    "timeDay": 445,
+    "timeWeek": 411,
     "timeMonth": 518,
     "timeYear": 403,
     "dailyMinutesDown": {
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 420,
-    "timeDay": 366,
-    "timeWeek": 311,
-    "timeMonth": 405,
-    "timeYear": 389,
+    "timeDay": 403,
+    "timeWeek": 326,
+    "timeMonth": 406,
+    "timeYear": 388,
     "dailyMinutesDown": {
       "2026-06-06": 78
     }
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 411,
-    "timeDay": 492,
-    "timeWeek": 357,
-    "timeMonth": 486,
-    "timeYear": 387,
+    "timeDay": 373,
+    "timeWeek": 373,
+    "timeMonth": 484,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2026-06-06": 70
     }
@@ -73,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 361,
-    "timeDay": 707,
-    "timeWeek": 506,
-    "timeMonth": 741,
-    "timeYear": 347,
+    "timeDay": 629,
+    "timeWeek": 516,
+    "timeMonth": 732,
+    "timeYear": 348,
     "dailyMinutesDown": {
       "2025-12-05": 33
     }
@@ -92,10 +92,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2008,
-    "timeDay": 2045,
-    "timeWeek": 2335,
-    "timeMonth": 2166,
+    "time": 2009,
+    "timeDay": 2393,
+    "timeWeek": 2381,
+    "timeMonth": 2182,
     "timeYear": 2047,
     "dailyMinutesDown": {}
   },
@@ -105,11 +105,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/glitchtip.ottooptics.io.ico",
     "slug": "glitch-tip",
     "status": "down",
-    "uptime": "88.82%",
+    "uptime": "88.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.80%",
+    "uptimeYear": "82.52%",
     "time": 271,
     "timeDay": 0,
     "timeWeek": 0,
@@ -118,7 +118,8 @@
     "dailyMinutesDown": {
       "2026-05-15": 88,
       "2026-06-06": 63,
-      "2026-09-18": 201,
+      "2026-09-19": 197,
+      "2026-09-18": 1440,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
