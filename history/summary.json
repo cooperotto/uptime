@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 437,
-    "timeDay": 421,
-    "timeWeek": 401,
-    "timeMonth": 630,
+    "time": 436,
+    "timeDay": 334,
+    "timeWeek": 397,
+    "timeMonth": 623,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2026-04-13": 106,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 412,
-    "timeDay": 404,
-    "timeWeek": 417,
-    "timeMonth": 495,
-    "timeYear": 393,
+    "timeDay": 420,
+    "timeWeek": 426,
+    "timeMonth": 499,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2026-06-06": 78
     }
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 409,
-    "timeDay": 379,
-    "timeWeek": 366,
-    "timeMonth": 592,
-    "timeYear": 403,
+    "timeDay": 483,
+    "timeWeek": 384,
+    "timeMonth": 598,
+    "timeYear": 404,
     "dailyMinutesDown": {
       "2026-06-06": 70
     }
@@ -73,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 407,
-    "timeDay": 672,
-    "timeWeek": 586,
-    "timeMonth": 952,
-    "timeYear": 418,
+    "timeDay": 954,
+    "timeWeek": 568,
+    "timeMonth": 967,
+    "timeYear": 420,
     "dailyMinutesDown": {
       "2025-12-05": 33
     }
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2084,
-    "timeDay": 2412,
-    "timeWeek": 2380,
-    "timeMonth": 2497,
-    "timeYear": 2138,
+    "timeDay": 2408,
+    "timeWeek": 2354,
+    "timeMonth": 2494,
+    "timeYear": 2139,
     "dailyMinutesDown": {}
   },
   {
@@ -105,11 +105,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/glitchtip.ottooptics.io.ico",
     "slug": "glitch-tip",
     "status": "down",
-    "uptime": "81.91%",
+    "uptime": "81.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.35%",
+    "uptimeYear": "69.08%",
     "time": 269,
     "timeDay": 0,
     "timeWeek": 0,
@@ -118,7 +118,8 @@
     "dailyMinutesDown": {
       "2026-05-15": 88,
       "2026-06-06": 63,
-      "2026-11-06": 316,
+      "2026-11-07": 287,
+      "2026-11-06": 1440,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
